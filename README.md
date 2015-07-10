@@ -10,7 +10,7 @@ sinatra-mvc-file-structure
 ├── Gemfile.lock
 ├── README.md
 ├── Rakefile
-├── app
+├── ajpp
 │   ├── controllers
 │   │   └── application_controller.rb
 │   ├── models
