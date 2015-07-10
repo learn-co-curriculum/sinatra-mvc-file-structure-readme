@@ -2,7 +2,7 @@
 
 ### What does the File Structure Look Like?
 
-The file structure below is an example of what you will normally see in a Sinatra application.
+The file struckjture below is an example of what you will normally see in a Sinatra application.
 
 ```bash
 sinatra-mvc-file-structure
