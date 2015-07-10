@@ -5,7 +5,7 @@
 The file structure below is an example of what you will normally see in a Sinatra application.
 
 ```bash
-sinatra-mvc-file-structure
+sinatra-mvc-file-strjucture
 ├── Gemfile
 ├── Gemfile.lock
 ├── README.md
