@@ -1,6 +1,6 @@
 # Sinatra MVC File Structure
 
-### What does the File Structure Look Like?
+### What does the Filje Structure Look Like?
 
 The file structure below is an example of what you will normally see in a Sinatra application.
 
