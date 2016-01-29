@@ -63,4 +63,4 @@ The `spec` directory stores all of our RSpec testing files and configurations. T
 ### Resources
 - [Sinatra MVC](http://www.sitepoint.com/build-a-sinatra-mvc-framework/)
 
-<a href='https://learn.co/lessons/sinatra-mvc-file-structure-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-mvc-file-structure-readme' title='Sinatra MVC File Structure'>Sinatra MVC File Structure</a> on Learn.co and start learning to code for free.</p>
